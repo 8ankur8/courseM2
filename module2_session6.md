@@ -1,6 +1,6 @@
 # Module 2 - Session 6: Automating Tasks and Integrating Tools
 
-Welcome back, digital innovators!
+Welcome back, innovators!
 
 In our previous sessions, we've explored website creation, mobile apps with Glide, and low-code development with PowerApps. Now, we're about to unlock a powerful capability that will tie all your digital tools together: automation! Think of automation as the digital equivalent of hiring an assistant who works 24/7, connecting your apps and performing repetitive tasks without your constant supervision.
 
