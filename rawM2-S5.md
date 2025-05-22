@@ -120,11 +120,11 @@ PowerApps offers numerous templates to jumpstart your development:
 - **Inventory Tracking**: Monitor stock levels and movements
 - **Service Requests**: Handle customer or internal support needs
 
-Sarah's Template Choice: She starts with the "Survey" template to build her adaptive assessment tool, knowing she'll need to customize it significantly for educational purposes.
+Sarah's Template Choice: She starts with the "market" template to build her adaptive assessment tool, knowing she'll need to customize it significantly for educational purposes.
 
-Henry's Template Choice: He selects the "Inventory Management" template as his starting point for tracking bakery supplies and ingredients.
+Henry's Template Choice: He selects the "Management" template as his starting point for tracking bakery supplies and ingredients.
 
-[Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates](./5.5.png)
+[Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates](./5.4.PNG)
 
 #### 5.2.2.2 Comparing Flexibility Across Template Designs
 
@@ -145,7 +145,7 @@ Instructions:
 3. Note 3 elements you would keep and 2 elements you would change
 4. Consider what custom logic might be needed beyond the template's capabilities
 
-[Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates](./5.6.png)
+[Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates](./5.5.PNG)
 
 ## 5.3 Integrating Everyday Data for Dynamic Applications
 
