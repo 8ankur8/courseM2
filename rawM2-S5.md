@@ -359,7 +359,7 @@ Gathering feedback is crucial for refinement:
 
 Henry involves his staff: He asks three bakery employees to test his inventory app, timing how long it takes them to check stock levels and update quantities after daily usage.
 
-![Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations](./5.13.PNG)
+![Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations](./5.14.PNG)
 
 #### 5.5.1.2 Methods for Performance Assessment
 
@@ -390,7 +390,7 @@ Based on evaluation, focus your improvements:
 
 Henry's Refinements: After testing, he adds barcode scanning to speed up inventory checks and simplifies the reordering process to a single button press.
 
-[Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes](./5.14.PNG)
+![Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes](./5.14.PNG)
 
 #### 5.5.2.2 Applying Iterative Updates and Enhancements
 
@@ -412,7 +412,7 @@ Instructions:
 3. Create a simple feedback form with 3-5 questions to gather user impressions
 4. Outline how you would prioritize potential improvements based on feedback
 
-[Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization](./5.15.png)
+![Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization](./5.15.png)
 
 ## 5.6 Summary
 
