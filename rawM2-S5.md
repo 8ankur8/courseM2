@@ -167,7 +167,7 @@ Connecting to Excel is often the simplest starting point:
 
 Henry's Example: He stores his inventory spreadsheet in OneDrive, with columns for Ingredient, Quantity, Unit, Reorder Point, and Supplier.
 
-[Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog](./5.7.PNG)
+![Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog](./5.7.PNG)
 
 #### 5.3.1.2 Connection Methods for Cloud-Based Data
 
@@ -250,7 +250,7 @@ Replit eliminates the need for complex software installation:
 
 Henry's Reaction: "I was intimidated by coding at first, but Replit makes it feel much more approachable. I can focus on solving my specific problem without worrying about setting up a development environment."
 
-[Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible](./5.10.PNG)
+![Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible](./5.10.PNG)
 
 #### 5.4.1.2 Collaborative and Solo Scripting Options
 
@@ -317,9 +317,6 @@ def calculate_batch():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
 ```
-
-[Screen Placeholder: Replit editor showing the above Python Flask API code with annotations explaining key sections]
-
 #### 5.4.2.2 Connecting PowerApps to Custom Scripts
 
 Once your Python script is deployed in Replit, you can connect it to PowerApps:
@@ -393,7 +390,7 @@ Based on evaluation, focus your improvements:
 
 Henry's Refinements: After testing, he adds barcode scanning to speed up inventory checks and simplifies the reordering process to a single button press.
 
-[Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes](./5.13.png)
+[Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes](./5.14.PNG)
 
 #### 5.5.2.2 Applying Iterative Updates and Enhancements
 
@@ -415,7 +412,7 @@ Instructions:
 3. Create a simple feedback form with 3-5 questions to gather user impressions
 4. Outline how you would prioritize potential improvements based on feedback
 
-[Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization](./5.14.png)
+[Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization](./5.15.png)
 
 ## 5.6 Summary
 
