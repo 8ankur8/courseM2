@@ -46,7 +46,7 @@ Low-code development offers several key benefits:
 - **Scalability**: Better equipped to grow with your needs
 - **Cost Efficiency**: Requires fewer specialized resources than traditional development
 
-[Screen Placeholder: Comparison chart showing No-Code vs. Low-Code vs. Traditional Coding with metrics for Development Speed, Customization Flexibility, Technical Expertise Required, and Scalability]
+![Screen Placeholder: Comparison chart showing No-Code vs. Low-Code vs. Traditional Coding with metrics for Development Speed, Customization Flexibility, Technical Expertise Required, and Scalability](./5.2.png)
 
 ### 5.1.2 Low-Code versus Traditional Coding Methods
 
@@ -74,7 +74,7 @@ The rise of low-code tools has democratized software development in remarkable w
 
 Sarah reflects: "With my limited coding background from a college course, low-code feels like the perfect middle ground. I can use the visual tools for most features, but add small scripts when I need something more specific for my classroom needs."
 
-[Image Placeholder: Screenshot of a simple low-code interface with arrows pointing to different areas labeled "Visual Component" and "Custom Code Area" to illustrate the hybrid nature of low-code development]
+[Image Placeholder: Screenshot of a simple low-code interface with arrows pointing to different areas labeled "Visual Component" and "Custom Code Area" to illustrate the hybrid nature of low-code development](./5.3.png)
 
 ## 5.2 Exploring PowerApps for App Projects
 
@@ -94,7 +94,7 @@ When you first open PowerApps, you'll find a surprisingly approachable interface
 
 Henry's First Impression: "It reminds me a bit of Excel with its formulas, but much more visual. I can actually see my bakery inventory app taking shape!"
 
-[Screen Placeholder: PowerApps main interface with labeled components (Design Canvas, Properties Panel, Formula Bar, etc.) and a simple inventory app being built]
+[Screen Placeholder: PowerApps main interface with labeled components (Design Canvas, Properties Panel, Formula Bar, etc.) and a simple inventory app being built](./5.4.png)
 
 #### 5.2.1.2 Customization Tools for Branding
 
@@ -124,7 +124,7 @@ Sarah's Template Choice: She starts with the "Survey" template to build her adap
 
 Henry's Template Choice: He selects the "Inventory Management" template as his starting point for tracking bakery supplies and ingredients.
 
-[Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates]
+[Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates](./5.5.png)
 
 #### 5.2.2.2 Comparing Flexibility Across Template Designs
 
@@ -145,7 +145,7 @@ Instructions:
 3. Note 3 elements you would keep and 2 elements you would change
 4. Consider what custom logic might be needed beyond the template's capabilities
 
-[Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates]
+[Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates](./5.6.png)
 
 ## 5.3 Integrating Everyday Data for Dynamic Applications
 
@@ -167,7 +167,7 @@ Connecting to Excel is often the simplest starting point:
 
 Henry's Example: He stores his inventory spreadsheet in OneDrive, with columns for Ingredient, Quantity, Unit, Reorder Point, and Supplier.
 
-[Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog]
+[Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog](./5.7.png)
 
 #### 5.3.1.2 Connection Methods for Cloud-Based Data
 
@@ -200,7 +200,7 @@ Henry maps his inventory data fields:
 - **Detail Screen**: Displays full information about the selected ingredient
 - **Edit Screen**: Allows updating quantities after usage or deliveries
 
-[Screen Placeholder: PowerApps screen showing the gallery, detail, and edit screens for an inventory app with arrows indicating how data flows between them]
+[Screen Placeholder: PowerApps screen showing the gallery, detail, and edit screens for an inventory app with arrows indicating how data flows between them](./5.7.png)
 
 #### 5.3.2.2 Comparing Synchronization Strategies for Dynamic Updates
 
@@ -228,7 +228,7 @@ Instructions:
    - An edit/create form
 3. Note any calculated fields you might need that don't exist in your raw data
 
-[Image Placeholder: A sample sketch showing field mapping between a spreadsheet and app screens with annotations explaining the mapping logic]
+[Image Placeholder: A sample sketch showing field mapping between a spreadsheet and app screens with annotations explaining the mapping logic](./5.8.png)
 
 ## 5.4 Enhancing Personal Apps with Custom Replit Scripting
 
@@ -250,7 +250,7 @@ Replit eliminates the need for complex software installation:
 
 Henry's Reaction: "I was intimidated by coding at first, but Replit makes it feel much more approachable. I can focus on solving my specific problem without worrying about setting up a development environment."
 
-[Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible]
+[Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible](./5.9.png)
 
 #### 5.4.1.2 Collaborative and Solo Scripting Options
 
@@ -332,7 +332,7 @@ Once your Python script is deployed in Replit, you can connect it to PowerApps:
 
 Sarah's Implementation: She creates a Python script that analyzes student response patterns and recommends appropriate follow-up questions, then connects this to her PowerApp through a custom connector.
 
-[Screen Placeholder: PowerApps screen showing a "Custom Connectors" configuration page with a connector being created for a Replit-hosted API]
+[Screen Placeholder: PowerApps screen showing a "Custom Connectors" configuration page with a connector being created for a Replit-hosted API](./5.10.png)
 
 ✨ **PLAYGROUND TASK #3: SKETCH A SIMPLE PYTHON ENHANCEMENT**
 
@@ -342,7 +342,7 @@ Instructions:
 3. Consider what inputs would be needed and what outputs would be returned
 4. If you're feeling adventurous, try implementing a simple version in Replit's Python environment
 
-[Image Placeholder: A side-by-side comparison of pseudocode and actual Python code for a simple function, showing how natural language logic translates to code]
+[Image Placeholder: A side-by-side comparison of pseudocode and actual Python code for a simple function, showing how natural language logic translates to code](./5.11.png)
 
 ## 5.5 Evaluating Low-Code Applications
 
@@ -362,7 +362,7 @@ Gathering feedback is crucial for refinement:
 
 Henry involves his staff: He asks three bakery employees to test his inventory app, timing how long it takes them to check stock levels and update quantities after daily usage.
 
-[Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations]
+[Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations](./5.12.png)
 
 #### 5.5.1.2 Methods for Performance Assessment
 
@@ -393,7 +393,7 @@ Based on evaluation, focus your improvements:
 
 Henry's Refinements: After testing, he adds barcode scanning to speed up inventory checks and simplifies the reordering process to a single button press.
 
-[Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes]
+[Screen Placeholder: Before/After comparison of a PowerApp screen showing UI improvements with annotations explaining the changes](./5.13.png)
 
 #### 5.5.2.2 Applying Iterative Updates and Enhancements
 
@@ -415,7 +415,7 @@ Instructions:
 3. Create a simple feedback form with 3-5 questions to gather user impressions
 4. Outline how you would prioritize potential improvements based on feedback
 
-[Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization]
+[Image Placeholder: A sample evaluation plan template with sections for Tasks, Success Metrics, Feedback Questions, and Improvement Prioritization](./5.14.png)
 
 ## 5.6 Summary
 
