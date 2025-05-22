@@ -74,7 +74,7 @@ The rise of low-code tools has democratized software development in remarkable w
 
 Sarah reflects: "With my limited coding background from a college course, low-code feels like the perfect middle ground. I can use the visual tools for most features, but add small scripts when I need something more specific for my classroom needs."
 
-[Image Placeholder: Screenshot of a simple low-code interface with arrows pointing to different areas labeled "Visual Component" and "Custom Code Area" to illustrate the hybrid nature of low-code development](./5.3.png)
+[Image Placeholder: Screenshot of a simple low-code interface with arrows pointing to different areas labeled "Visual Component" and "Custom Code Area" to illustrate the hybrid nature of low-code development](./5.2.png)
 
 ## 5.2 Exploring PowerApps for App Projects
 
