@@ -94,7 +94,7 @@ When you first open PowerApps, you'll find a surprisingly approachable interface
 
 Henry's First Impression: "It reminds me a bit of Excel with its formulas, but much more visual. I can actually see my bakery inventory app taking shape!"
 
-[Screen Placeholder: PowerApps main interface with labeled components (Design Canvas, Properties Panel, Formula Bar, etc.) and a simple inventory app being built](./5.4.png)
+![Screen Placeholder: PowerApps main interface with labeled components (Design Canvas, Properties Panel, Formula Bar, etc.) and a simple inventory app being built](./5.3.png)
 
 #### 5.2.1.2 Customization Tools for Branding
 
