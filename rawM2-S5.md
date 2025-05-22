@@ -124,7 +124,7 @@ Sarah's Template Choice: She starts with the "market" template to build her adap
 
 Henry's Template Choice: He selects the "Management" template as his starting point for tracking bakery supplies and ingredients.
 
-[Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates](./5.4.PNG)
+![Screen Placeholder: Gallery of PowerApps templates with brief descriptions for each, highlighting the "Survey" and "Inventory Management" templates](./5.5.PNG)
 
 #### 5.2.2.2 Comparing Flexibility Across Template Designs
 
@@ -145,7 +145,7 @@ Instructions:
 3. Note 3 elements you would keep and 2 elements you would change
 4. Consider what custom logic might be needed beyond the template's capabilities
 
-[Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates](./5.5.PNG)
+![Screen Placeholder: PowerApps template gallery screen with an arrow pointing to the filtering options to help users find relevant templates](./5.6.PNG)
 
 ## 5.3 Integrating Everyday Data for Dynamic Applications
 
@@ -167,7 +167,7 @@ Connecting to Excel is often the simplest starting point:
 
 Henry's Example: He stores his inventory spreadsheet in OneDrive, with columns for Ingredient, Quantity, Unit, Reorder Point, and Supplier.
 
-[Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog](./5.7.png)
+[Screen Placeholder: Step-by-step screenshot series showing the process of connecting PowerApps to an Excel file, with specific focus on the "Add data source" dialog](./5.7.PNG)
 
 #### 5.3.1.2 Connection Methods for Cloud-Based Data
 
@@ -200,7 +200,7 @@ Henry maps his inventory data fields:
 - **Detail Screen**: Displays full information about the selected ingredient
 - **Edit Screen**: Allows updating quantities after usage or deliveries
 
-[Screen Placeholder: PowerApps screen showing the gallery, detail, and edit screens for an inventory app with arrows indicating how data flows between them](./5.7.png)
+![Screen Placeholder: PowerApps screen showing the gallery, detail, and edit screens for an inventory app with arrows indicating how data flows between them](./5.8.PNG)
 
 #### 5.3.2.2 Comparing Synchronization Strategies for Dynamic Updates
 
@@ -228,7 +228,7 @@ Instructions:
    - An edit/create form
 3. Note any calculated fields you might need that don't exist in your raw data
 
-[Image Placeholder: A sample sketch showing field mapping between a spreadsheet and app screens with annotations explaining the mapping logic](./5.8.png)
+![Image Placeholder: A sample sketch showing field mapping between a spreadsheet and app screens with annotations explaining the mapping logic](./5.9.PNG)
 
 ## 5.4 Enhancing Personal Apps with Custom Replit Scripting
 
@@ -250,7 +250,7 @@ Replit eliminates the need for complex software installation:
 
 Henry's Reaction: "I was intimidated by coding at first, but Replit makes it feel much more approachable. I can focus on solving my specific problem without worrying about setting up a development environment."
 
-[Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible](./5.9.png)
+[Screen Placeholder: Replit interface showing a simple Python script being edited, with file browser, editor, and output panels visible](./5.10.PNG)
 
 #### 5.4.1.2 Collaborative and Solo Scripting Options
 
@@ -332,7 +332,7 @@ Once your Python script is deployed in Replit, you can connect it to PowerApps:
 
 Sarah's Implementation: She creates a Python script that analyzes student response patterns and recommends appropriate follow-up questions, then connects this to her PowerApp through a custom connector.
 
-[Screen Placeholder: PowerApps screen showing a "Custom Connectors" configuration page with a connector being created for a Replit-hosted API](./5.10.png)
+![Screen Placeholder: PowerApps screen showing a "Custom Connectors" configuration page with a connector being created for a Replit-hosted API](./5.11.PNG)
 
 ✨ **PLAYGROUND TASK #3: SKETCH A SIMPLE PYTHON ENHANCEMENT**
 
@@ -342,7 +342,7 @@ Instructions:
 3. Consider what inputs would be needed and what outputs would be returned
 4. If you're feeling adventurous, try implementing a simple version in Replit's Python environment
 
-[Image Placeholder: A side-by-side comparison of pseudocode and actual Python code for a simple function, showing how natural language logic translates to code](./5.11.png)
+![Image Placeholder: A side-by-side comparison of pseudocode and actual Python code for a simple function, showing how natural language logic translates to code](./5.12.PNG)
 
 ## 5.5 Evaluating Low-Code Applications
 
@@ -362,7 +362,7 @@ Gathering feedback is crucial for refinement:
 
 Henry involves his staff: He asks three bakery employees to test his inventory app, timing how long it takes them to check stock levels and update quantities after daily usage.
 
-[Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations](./5.12.png)
+![Image Placeholder: A person observing another person using a PowerApp on a tablet, with a notepad nearby for recording observations](./5.13.PNG)
 
 #### 5.5.1.2 Methods for Performance Assessment
 
