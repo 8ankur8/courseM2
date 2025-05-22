@@ -15,7 +15,7 @@ In this session, you will learn to:
 
 Let's continue our journey with our dedicated entrepreneurs, Henry (from "The Sweet Spot Bakery") and Sarah Miller (our resourceful middle school English teacher)!
 
-[Image Placeholder: Show Henry and Sarah looking at a laptop with a PowerApps interface visible on screen. Include speech bubbles with "I need something more customized for my inventory" (Henry) and "I want to create a more interactive assessment tool" (Sarah)]
+![Image Placeholder: Show Henry and Sarah looking at a laptop with a PowerApps interface visible on screen. Include speech bubbles with "I need something more customized for my inventory" (Henry) and "I want to create a more interactive assessment tool" (Sarah)](./5.1.png)
 
 ## 5.1 Conceptualizing Low-Code Innovation
 
