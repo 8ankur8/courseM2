@@ -46,7 +46,7 @@ Low-code development offers several key benefits:
 - **Scalability**: Better equipped to grow with your needs
 - **Cost Efficiency**: Requires fewer specialized resources than traditional development
 
-![Screen Placeholder: Comparison chart showing No-Code vs. Low-Code vs. Traditional Coding with metrics for Development Speed, Customization Flexibility, Technical Expertise Required, and Scalability](./5.2.png)
+![Screen Placeholder: Comparison chart showing No-Code vs. Low-Code vs. Traditional Coding with metrics for Development Speed, Customization Flexibility, Technical Expertise Required, and Scalability](./BCO.b534b959-438d-4abb-b927-cb9a8a2782f5.png)
 
 ### 5.1.2 Low-Code versus Traditional Coding Methods
 
