@@ -14,7 +14,7 @@ In this session, you will learn to:
 
 Let's continue with Henry from "The Sweet Spot Bakery" and Sarah, our innovative middle school English teacher, as they discover how proper data management can transform their digital solutions from simple tools into intelligent systems!
 
-![Image Placeholder: Show Henry and Sarah looking at different database interfaces on their screens - Airtable's grid view, Firebase's document structure, and Google Sheets. Include thought bubbles: "My customer data needs to connect everything!" (Henry) and "Student progress tracking just got smarter!" (Sarah)](./img/1.png)
+![Image Placeholder: Show Henry and Sarah looking at different database interfaces on their screens - Airtable's grid view, Firebase's document structure, and Google Sheets. Include thought bubbles: "My customer data needs to connect everything!" (Henry) and "Student progress tracking just got smarter!" (Sarah)](./1.png)
 
 ## 7.1 Introduction to No-Code Databases
 
@@ -37,7 +37,7 @@ Sarah adds: "Every gradebook, student roster, and assignment tracker I use is es
 > **PRO-TIP:**
 > Don't be intimidated by database terminology. If you can organize information in a filing cabinet or spreadsheet, you already understand the basic concepts of database organization.
 
-![Screen Placeholder: Visual comparison showing traditional file organization vs. database organization, highlighting how databases provide structured, connected, and searchable information storage](./img/2.png)
+![Screen Placeholder: Visual comparison showing traditional file organization vs. database organization, highlighting how databases provide structured, connected, and searchable information storage](./2.png)
 
 ### 7.1.2 Key Elements in No-Code Database Platforms
 
@@ -59,7 +59,7 @@ No-code database platforms share several fundamental concepts that make them acc
 - Henry's example: Linking customer records to their order history
 - Sarah's example: Connecting students to their assignment submissions and grades
 
-![Image Placeholder: Diagram showing the relationship between tables, records, and fields using a simple visual analogy like a library catalog system or recipe organization](./img/3.png)
+![Image Placeholder: Diagram showing the relationship between tables, records, and fields using a simple visual analogy like a library catalog system or recipe organization](./3.png)
 
 ### 7.1.3 Structured and Unstructured Data in App Development
 
@@ -105,7 +105,7 @@ Henry's Bakery Data Flow:
 4. Staff access order details for production (Retrieval)
 5. Confirmation email sent, receipt generated (Output)
 
-![Screen Placeholder: Flowchart showing the data lifecycle in a no-code application, with arrows indicating the flow from input through processing, storage, retrieval, and output](./img/4.png)
+![Screen Placeholder: Flowchart showing the data lifecycle in a no-code application, with arrows indicating the flow from input through processing, storage, retrieval, and output](./4.png)
 
 #### 7.1.4.2 No-Code Platform Data Usage for Functionality
 
@@ -157,7 +157,7 @@ No-code databases excel in several common scenarios:
 
 Sarah explains: "My classroom database handles all these use cases simultaneously. It manages student information (user management), stores lesson plans and resources (content management), tracks parent communication (CRM), and organizes assignment workflows (project management)."
 
-![Image Placeholder: Grid showing different use case categories with icons and brief descriptions, highlighting how databases support multiple functions within no-code applications](./img/5.png)
+![Image Placeholder: Grid showing different use case categories with icons and brief descriptions, highlighting how databases support multiple functions within no-code applications](./5.png)
 
 ### 7.1.5 Types of No-Code Databases
 
@@ -185,7 +185,7 @@ Understanding the three main types helps you choose the right approach:
 
 Henry's Evolution: "I started with a Google Sheet for customer information. As my bakery grew, I moved to Airtable to connect customers, orders, and products properly. Now I can see complete customer histories and track product popularity across different customer segments."
 
-![Screen Placeholder: Side-by-side comparison showing the same information (customer orders) represented in spreadsheet format, document format, and relational table format](./img/6.png)
+![Screen Placeholder: Side-by-side comparison showing the same information (customer orders) represented in spreadsheet format, document format, and relational table format](./6.png)
 
 **Data Types and Structures**
 
@@ -272,7 +272,7 @@ Instructions:
 4. Based on what you've learned, which database type (spreadsheet, document, or relational) seems most suitable?
 5. Which specific tool (Google Sheets, Airtable, or Firebase) would you choose and why?
 
-![Screen Placeholder: Assessment worksheet template with sections for data types, relationships, complexity level, and tool recommendation](./img/8.png)
+![Screen Placeholder: Assessment worksheet template with sections for data types, relationships, complexity level, and tool recommendation](./8.png)
 
 ## 7.2 Key Features of Airtable, Firebase, and Google Sheets
 
@@ -303,7 +303,7 @@ Airtable brilliantly combines the familiarity of spreadsheets with the power of 
 
 Henry describes his experience: "Airtable looks like Excel at first glance, which made me comfortable. But when I started linking my customers to their orders and products, I realized I was building something much more powerful than any spreadsheet I'd used before."
 
-![Screen Placeholder: Airtable interface showing a typical base with multiple tables, field types, and view options clearly labeled](./img/9.png)
+![Screen Placeholder: Airtable interface showing a typical base with multiple tables, field types, and view options clearly labeled](./9.png)
 #### 7.2.1.2 Linked Records and Relational Data Features
 
 The real power of Airtable lies in connecting related information:
@@ -328,7 +328,7 @@ The real power of Airtable lies in connecting related information:
 
 Sarah's Implementation: "I link students to their assignments, assignments to reading levels, and reading levels to recommended books. This lets me see each student's complete learning journey and automatically suggest appropriate next steps."
 
-![Screen Placeholder: Example of Airtable's linked records in action, showing how customer information connects to orders and products, with arrows indicating the relationships](./img/10.png)
+![Screen Placeholder: Example of Airtable's linked records in action, showing how customer information connects to orders and products, with arrows indicating the relationships](./10.png)
 
 #### 7.2.1.3 Use Cases (such as content planning and CRM)
 
