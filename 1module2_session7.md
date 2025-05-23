@@ -356,7 +356,7 @@ Airtable excels in scenarios requiring organized, connected information:
 
 Henry's CRM Evolution: "My Airtable CRM connects customer preferences to their order history and marketing interactions. I can see that Mrs. Johnson always orders gluten-free items for Tuesday pickup and prefers email communication. This helps me provide personalized service at scale."
 
-![Image Placeholder: Screenshot of a well-organized Airtable base showing multiple related tables for a CRM system, with clear labels showing the connections between contacts, companies, deals, and activities](./img/11.png)
+![Image Placeholder: Screenshot of a well-organized Airtable base showing multiple related tables for a CRM system, with clear labels showing the connections between contacts, companies, deals, and activities](./11.png)
 
 ### 7.2.2 Uncovering Firebase's Real-Time Data Strengths
 
@@ -381,7 +381,7 @@ Firebase takes a different approach with its document-based, cloud-native archit
 
 Sarah explains: "Firebase is like having filing cabinets where each folder can contain different types of documents. My student profiles can have different information based on their grade level or program participation, all stored naturally without forcing everything into the same rigid structure."
 
-![Screen Placeholder: Firebase console showing the document/collection structure with a sample education database containing students, classes, and assignments organized hierarchically](./img/12.png)
+![Screen Placeholder: Firebase console showing the document/collection structure with a sample education database containing students, classes, and assignments organized hierarchically](./12.png)
 #### 7.2.2.2 Real-time Updates And User Sync
 
 Firebase's standout feature is instant synchronization across all connected devices:
@@ -403,7 +403,7 @@ Firebase's standout feature is instant synchronization across all connected devi
 
 Henry's Implementation: "My staff app shows real-time inventory levels. When someone uses ingredients in the kitchen, everyone else immediately sees the updated quantities. No more accidentally starting a recipe when we're low on flour!"
 
-![Image Placeholder: Side-by-side comparison showing the same data on multiple devices (phone, tablet, computer) updating simultaneously to demonstrate real-time synchronization](./img/13.png)
+![Image Placeholder: Side-by-side comparison showing the same data on multiple devices (phone, tablet, computer) updating simultaneously to demonstrate real-time synchronization](./13.png)
 
 #### 7.2.2.3 Firebase's Backend Features for No-Code Use
 
@@ -460,7 +460,7 @@ Google Sheets serves as an accessible entry point into database concepts:
 
 Henry reflects: "I started with Google Sheets because it felt comfortable and didn't cost anything extra. Even now that I use more advanced tools, I still use Sheets for quick data collection and simple tracking where I don't need complex relationships."
 
-![Screen Placeholder: Google Sheets interface showing a typical business spreadsheet with various data types, formulas, and collaborative features highlighted](./img/13.1.png)
+![Screen Placeholder: Google Sheets interface showing a typical business spreadsheet with various data types, formulas, and collaborative features highlighted](./13.1.png)
 
 #### 7.2.3.2 Use of Sheets for Small-Scale Databases
 
@@ -519,7 +519,7 @@ Google Sheets' greatest strength as a database is its extensive integration ecos
 
 Henry's Integration Strategy: "My Google Sheet serves as the central hub. Zapier moves data from my website forms into Sheets, Glide creates a mobile app for my staff from the same data, and Data Studio creates executive dashboards for me. It's like having one source of truth that powers multiple applications."
 
-![Screen Placeholder: Diagram showing Google Sheets at the center with arrows connecting to various integration tools like Glide, Zapier, Google Forms, and Data Studio](./img/14.png)
+![Screen Placeholder: Diagram showing Google Sheets at the center with arrows connecting to various integration tools like Glide, Zapier, Google Forms, and Data Studio](./14.png)
 
 ✨ **PLAYGROUND TASK #2: CHOOSE YOUR DATABASE TOOL**
 
@@ -532,7 +532,7 @@ Instructions:
 3. Create a simple pros/cons list for each tool for your specific project
 4. Make your selection and briefly explain your reasoning
 
-![Image Placeholder: Comparison chart template showing criteria for evaluating database tools with checkboxes and rating scales for different features](./img/14.1.png)
+![Image Placeholder: Comparison chart template showing criteria for evaluating database tools with checkboxes and rating scales for different features](./14.1.png)
 
 ## 7.3 Exploring Data Tools and Their Capabilities
 
@@ -562,7 +562,7 @@ Understanding how each platform handles growth helps you plan for the future:
 
 Henry's Scaling Experience: "I started with Google Sheets for 200 customers and it worked great. At 2,000 customers, I noticed slowdowns. Now with Airtable, I handle 5,000+ customers easily, and I know I can grow much larger without performance issues."
 
-![Screen Placeholder: Performance comparison chart showing how each platform handles increasing data volumes and user counts, with clear inflection points where performance begins to degrade](./img/17.png)
+![Screen Placeholder: Performance comparison chart showing how each platform handles increasing data volumes and user counts, with clear inflection points where performance begins to degrade](./17.png)
 
 #### 7.3.1.2 Data Size and Record Limits in Free and Paid Plans
 
@@ -613,7 +613,7 @@ Large-scale projects require different considerations for each platform:
 
 Henry's Large Project Approach: "My catering business required tracking complex events with multiple products, staff assignments, and timeline dependencies. I moved from Sheets to Airtable, then implemented Firebase for the mobile coordination app my staff uses during events. Each platform handles the parts it's best at."
 
-![Image Placeholder: Architecture diagram showing how a complex project might use multiple database platforms together, with data flow between them for optimal performance](./img/18.png)
+![Image Placeholder: Architecture diagram showing how a complex project might use multiple database platforms together, with data flow between them for optimal performance](./18.png)
 
 ### 7.3.2 Differentiating Real-Time Features
 
@@ -641,7 +641,7 @@ Understanding real-time capabilities helps you choose the right tool for collabo
 
 Sarah compares: "Google Sheets is perfect for my gradebook where I need to see student work in real-time during virtual classes. Airtable keeps my lesson planning synchronized across devices with reasonable speed. For my classroom collaboration app where students submit answers during live discussions, Firebase's instant updates are essential."
 
-![Screen Placeholder: Timeline comparison showing how quickly changes propagate across different platforms, with specific timing measurements for each](./img/19.png)
+![Screen Placeholder: Timeline comparison showing how quickly changes propagate across different platforms, with specific timing measurements for each](./19.png)
 
 #### 7.3.2.2 Latency and Update Speed
 
@@ -693,7 +693,7 @@ Real-time performance directly affects user satisfaction:
 
 Sarah's User Experience Focus: "My students expect immediate feedback when they submit quiz answers during class. Firebase provides that instant gratification. For homework submissions that I'll review later, Airtable's slightly slower updates are perfectly acceptable and more cost-effective."
 
-![Image Placeholder: User interface mockups showing the difference in user experience between instant real-time updates and slightly delayed updates in various application scenarios](./img/20.png)
+![Image Placeholder: User interface mockups showing the difference in user experience between instant real-time updates and slightly delayed updates in various application scenarios](./20.png)
 
 ### 7.3.3 Evaluating Ease of Integration with No-Code Tools
 
