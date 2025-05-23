@@ -748,7 +748,7 @@ Each platform offers different ways to connect with other applications:
 
 Sarah explains her connection strategy: "I use Google Sheets with Zapier for simple data flow from forms to my gradebook. Airtable's native Slack integration keeps my teaching team updated on lesson planning changes. For my student collaboration app, Firebase's JavaScript SDK provides the seamless real-time experience students expect."
 
-![Screen Placeholder: Diagram showing different connection methods for each platform, with arrows indicating data flow between databases and various no-code tools](./img/21.png)
+![Screen Placeholder: Diagram showing different connection methods for each platform, with arrows indicating data flow between databases and various no-code tools](./21.png)
 
 #### 7.3.3.3 Categorizing Tools by Ease of Connection and Automation
 
@@ -790,7 +790,7 @@ Instructions:
 4. Create a phased implementation plan starting with Easy connections and building toward more complex ones
 5. Identify which database platform would support the most connections with the least complexity
 
-![Screen Placeholder: Integration planning template with sections for application description, required connections, complexity assessment, and implementation timeline](./img/22.png)
+![Screen Placeholder: Integration planning template with sections for application description, required connections, complexity assessment, and implementation timeline](./22.png)
 
 ## 7.4 Outlining Steps to Design and Connect Databases
 
@@ -830,7 +830,7 @@ Henry's Bakery Schema Planning:
 - **Phone**: Contact numbers
 - **URL**: Website links, references
 
-![Screen Placeholder: Visual guide showing different Airtable field types with examples of when to use each one, displayed as a reference card format](./img/23.png)
+![Screen Placeholder: Visual guide showing different Airtable field types with examples of when to use each one, displayed as a reference card format](./23.png)
 
 #### 7.4.1.2 Organizing a Sample Project with Multiple Linked Tables
 
@@ -876,7 +876,7 @@ Let's build a complete project step-by-step:
 - In Students table: Number of Assignments (count from Assignments)
 - In Books table: Times Assigned (count from Assignments)
 
-![Screen Placeholder: Airtable interface showing the three-table structure with visible relationships and lookup fields, demonstrating how the data connects and flows between tables](./img/24.png)
+![Screen Placeholder: Airtable interface showing the three-table structure with visible relationships and lookup fields, demonstrating how the data connects and flows between tables](./24.png)
 
 #### 7.4.1.3 Data Types and Views for Better App Usability
 
@@ -943,7 +943,7 @@ Getting started with Firebase involves several setup steps:
 
 Sarah's Firebase Setup Process: "I created a project called 'Classroom-Collaboration' and set up Firestore in test mode initially. This let me experiment with data structure before implementing proper security rules for student access."
 
-![Screen Placeholder: Step-by-step screenshots of Firebase console showing project creation, Firestore setup, and the main database interface](./img/25.png)
+![Screen Placeholder: Step-by-step screenshots of Firebase console showing project creation, Firestore setup, and the main database interface](./25.png)
 
 #### 7.4.2.2 Organizing Collections, Documents, and Fields
 
@@ -1002,7 +1002,7 @@ Henry's Firebase Structure for Real-time Kitchen Coordination:
 - Consider query patterns when designing structure
 - Plan for real-time listener efficiency
 
-![Screen Placeholder: Firebase console showing a sample database structure with collections, documents, and fields clearly labeled and explained](./img/26.png)
+![Screen Placeholder: Firebase console showing a sample database structure with collections, documents, and fields clearly labeled and explained](./26.png)
 
 #### 7.4.2.3 Rules and Permissions for Basic User Security
 
@@ -1093,7 +1093,7 @@ Henry's Staff Management App with Glide:
 - **User Profiles**: Personalized experiences based on login
 - **Push Notifications**: Alert users to important updates
 
-![Screen Placeholder: Side-by-side comparison showing a Google Sheet and the resulting Glide mobile app interface, highlighting how sheet columns become app features](./img/27.png)
+![Screen Placeholder: Side-by-side comparison showing a Google Sheet and the resulting Glide mobile app interface, highlighting how sheet columns become app features](./27.png)
 
 #### 7.4.3.2 Using Bubble to Connect with Airtable APIs
 
@@ -1132,7 +1132,7 @@ Sarah's Lesson Planning Web App:
 - Monitor API usage to stay within rate limits
 - Secure API keys and never expose them in client-side code
 
-![Screen Placeholder: Bubble workflow editor showing API calls to Airtable, with data mapping and error handling configurations visible](./img/28.png)
+![Screen Placeholder: Bubble workflow editor showing API calls to Airtable, with data mapping and error handling configurations visible](./28.png)
 
 #### 7.4.3.3 Utilizing Firebase with No-Code Builders via Plugins or API Connectors
 
@@ -1223,7 +1223,7 @@ Sarah's Dynamic Student Portal:
 - Set up conditional formatting rules
 - Configure record-specific permissions
 
-![Screen Placeholder: Before/after comparison showing a static form vs. a dynamic form that adapts based on user selections, with arrows pointing to elements that change](./img/29.png)
+![Screen Placeholder: Before/after comparison showing a static form vs. a dynamic form that adapts based on user selections, with arrows pointing to elements that change](./29.png)
 
 #### 7.4.4.2 Developing Filtering and Search Functions using Real-time Data
 
@@ -1265,7 +1265,7 @@ Henry's Product Catalog Implementation:
 - Set up text search with additional search services
 - Use real-time listeners for instant updates
 
-![Screen Placeholder: Interactive search interface showing multiple filter options and real-time results updating as filters are applied](./img/30.png)
+![Screen Placeholder: Interactive search interface showing multiple filter options and real-time results updating as filters are applied](./30.png)
 
 #### 7.4.4.3 Creating Dashboards and Reports from Live Datasets
 
@@ -1317,7 +1317,7 @@ Henry's Business Intelligence Dashboard:
 - **Mobile Responsive**: Dashboards should work on all devices
 - **Performance Optimization**: Fast loading times for better user experience
 
-![Screen Placeholder: Sample business dashboard showing various chart types, KPIs, and data visualizations with clear labels explaining each component's purpose](./img/31.png)
+![Screen Placeholder: Sample business dashboard showing various chart types, KPIs, and data visualizations with clear labels explaining each component's purpose](./31.png)
 
 ✨ **PLAYGROUND TASK #4: DESIGN YOUR DATABASE SCHEMA**
 
@@ -1329,7 +1329,7 @@ Instructions:
 5. Choose your database platform (Google Sheets, Airtable, or Firebase) and justify your choice
 6. Sketch a simple schema diagram showing tables/collections and their relationships
 
-![Screen Placeholder: Database schema planning worksheet with sections for entities, fields, relationships, platform selection, and visual schema diagram](./img/32.png)
+![Screen Placeholder: Database schema planning worksheet with sections for entities, fields, relationships, platform selection, and visual schema diagram](./32.png)
 
 ## 7.5 Summary
 
@@ -1411,7 +1411,7 @@ Database management in the no-code world represents a fundamental shift in how w
 
 The key to success lies not in mastering every technical detail, but in understanding your users' needs, designing clean data structures, and choosing the right tools for each specific challenge. As Henry and Sarah have demonstrated, thoughtful application of no-code database principles can transform how you work, learn, and serve others.
 
-![Image Placeholder: Final summary graphic showing the progression from simple spreadsheets to sophisticated integrated database ecosystems, with Henry and Sarah's success stories highlighted as inspiration for readers](./img/33.png)
+![Image Placeholder: Final summary graphic showing the progression from simple spreadsheets to sophisticated integrated database ecosystems, with Henry and Sarah's success stories highlighted as inspiration for readers](./33.png)
 
 ---
 
