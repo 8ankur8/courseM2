@@ -245,7 +245,7 @@ Each platform has strengths for different scenarios:
 
 Sarah's Tool Selection: "I use Google Sheets for simple tracking like attendance and basic grades. For my complex reading program with linked books, students, and progress tracking, I use Airtable. For my classroom collaboration app where students need real-time updates, I use Firebase."
 
-![Screen Placeholder: Decision tree flowchart helping users choose between Google Sheets, Airtable, and Firebase based on their specific needs and priorities](./img/7.png)
+![Screen Placeholder: Decision tree flowchart helping users choose between Google Sheets, Airtable, and Firebase based on their specific needs and priorities](./7.png)
 
 #### 7.1.5.3 Hosted Vs Self-managed No-Code Data Solutions
 
